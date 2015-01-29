@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <link href="css/main.css" type="text/css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400' rel='stylesheet' type='text/css'>
+    <title>Welcome to Multinet Transmission Web portal</title>
+    
+</head>
+
+<body>
+    
+   
+    <div class="wrapper">
+        <div class ="row header">
+            <div class="col-4">
+                <p id="headertext">Transmission</p>
+            </div>
+            <div class="col-5"></div>
+            <div class = "col-3" style="display:flex">
+                <p id="header-menu"><a href="/default.php">HOME</a>  </p>
+                <p id="header-menu"><a href="/about.php">PLANNING</a></p>      
+                <p id="header-menu"><a href="/contact.php">OPERATIONS</a></p>  
+                <p id="header-menu"><a href="/contact.php">ABOUT US</a></p>
+            </div>
+            
+        </div>
+             
+        <div class="row mid" style="background:url(/images/Fiberbg.jpg)">
+            <div class="col-10" ></div>
+            <div class="col-2"><img src="/images/Logo.jpg" height="80" width="220"></div>
+            <div class="col-12"><h2>TRANSMISSION WEB PORTAL</h2><p>WELCOME USER</p></div>
+            
+        </div>
+        <div class="row midlow">
+              <div class="col-4"><a href="https://docs.google.com/forms/d/1IC2Spu3gvbgFUIpZG-8FBASzcm5oGgHMdXOjL2d92eo/viewform?usp=send_form#start=invite" target="_blank"> <h3>MAKE NEW IRF</h3><p> Click the above link to create a new Incident Report Form using Google docs</p></a> </div>
+            <div class="col-4" id="mid-item"> <a href="https://docs.google.com/spreadsheets/d/1A4k-9oXRpO5vLe-szcP4ACesq9meGKLSyvjwWI80Moc/edit?usp=sharing" target="_blank"><h3>VIEW IRF INDEX</h3><p> Click the above link to create a new Incident Report Form using Google docs</p></a> </div>
+            <div class="col-4"><a href="https://docs.google.com/spreadsheets/d/19PpgNZm02txBlqmrdT5X4WrPjw0xVWijwT_oDa1XOcA/edit?usp=sharing"> <h3>VIEW LRF/PSP SUMMARY</h3><p> Click the above link to view/edit LRF DB, PSP DB or Solutions Weekly Summary</p></a></div>
+        </div>
+        
+        <div class="row low" >
+        <div class="col-12"><p> &copy; COPYRIGHT 2015 MULTINET PVT LTD</p></div>
+        
+        
+        </div>
+        
+    
+    </div>
+
+    
+</body>
+
+
+
+</html>
